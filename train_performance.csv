@@ -1,0 +1,11 @@
+train_no,train_name,train_type,total_observations,stations_covered,verified_arrival_count,verified_departure_count,avg_arrival_delay_min,avg_departure_delay_min,arrival_punctuality_pct,departure_punctuality_pct,severe_arrival_count,severe_departure_count
+1025,Dr Ballia Spl,TOD,15023,31,12687,11706,162.07,161.3,8.19,9.30,8380,7568
+1026,Bui Dr Spl,TOD,13704,33,11374,10663,182.71,167.58,8.46,10.48,7741,6960
+1024,Kop Pune Special,TOD,20078,21,16116,17372,17.42,19.04,27.15,22.50,435,611
+1211,Badnera - Nashik Road Memu Special,MEMU,10462,18,9842,9654,47.06,48.5,6.23,6.69,2787,2926
+1028,Gkp Dr Spl,TOD,20254,52,16325,15311,219.39,205.59,11.68,13.93,11535,10470
+1487,Hdp Harangul Exp,MAIL/EXPRESS,11495,14,10845,10264,28.79,32.41,14.37,11.47,790,966
+1212,Nashik Road - Badnera Memu Special,MEMU,10581,18,10229,8579,62.57,64.74,7.09,7.29,4175,3738
+1023,Pune Kop Special,TOD,19601,21,18846,18727,35.42,37.53,12.85,12.35,2900,3255
+4779,Suratgarh Jn. Sgnr-sog Passenger,PAS,20306,13,12517,13888,7.96,8.03,66.28,63.62,93,101
+1027,Dr Gorakhpur Spl,TOD,20725,34,17570,16321,145.46,144.89,11.20,12.33,10977,10068
